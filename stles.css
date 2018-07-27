@@ -1,0 +1,13 @@
+#top{
+  color: blue;
+  font-weight: bold;
+  font-family: fantasy;
+  font: 24;
+}
+.bottom{color: red;
+  font-style: italic;
+  font-stretch: extra-condensed;
+  font-size: 14;
+
+}
+.h1{color: green;}
